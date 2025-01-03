@@ -1,1 +1,3 @@
 # phishing-link-scanner
+By integrating this phishing link scanner into their cybersecurity arsenal, individuals and organizations can significantly enhance their resilience against phishing attacks, safeguarding sensitive information and mitigating the risk of financial and reputational damage.
+Key features of the phishing link scanner include real-time protection across multiple platforms, comprehensive analysis of link structures and content, and a user-friendly interface accessible to individuals of all technical backgrounds. Regular updates to the scanner's database ensure that it remains effective against evolving phishing tactics and emerging threats
